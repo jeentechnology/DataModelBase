@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Michael Beesley</Authors>
+    <Company>JeenTechnology</Company>
+    <Description>simple base project for data models</Description>
+    <PackageProjectUrl>https://github.com/jeentechnology/DataModelBase/tree/master/DataModelBase</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jeentechnology/DataModelBase/tree/master/DataModelBase</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>DataModels</PackageTags>
   </PropertyGroup>
 
 </Project>
