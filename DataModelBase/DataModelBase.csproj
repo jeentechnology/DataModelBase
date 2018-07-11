@@ -10,6 +10,13 @@
     <RepositoryUrl>https://github.com/jeentechnology/DataModelBase/tree/master/DataModelBase</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <PackageTags>DataModels</PackageTags>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
 
 </Project>
